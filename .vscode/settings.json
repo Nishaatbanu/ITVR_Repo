@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "LA_9.sln"
+    "dotnet.defaultSolution": "ITVR_Repo.sln"
 }
